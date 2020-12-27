@@ -1,0 +1,1 @@
+实现了一个简单的命令行界面。在 [KN-trigram-hadoop](https://github.com/TwistsOfFate/KN-trigram-hadoop) 计算完成的基础上，将其计算结果导入 SQL Server 中，可以利用本 Python 脚本实现语句概率计算和中文输入预测。
